@@ -1,164 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Susatwik%20Manuri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Backend%20Architect&descAlignY=51&descAlign=50" />
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p>
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=900&lines=Building+AI-Powered+Products+at+Scale;LLM+Integrations+%7C+RAG+Systems+%7C+Vector+Search;Scalable+Backends+%7C+Production+Architecture;CodeChef+4%E2%98%85+%7C+1800%2B+Problems+Solved" alt="Typing SVG" />
-  </a>
-</p>
+# 👋 Hello, I'm Singarapu Prasanna Kumar
 
-<p>
-  <a href="https://susatwik-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-000000?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/susatwik/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:susatwikmanuri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/susatwik">
-    <img src="https://img.shields.io/github/followers/susatwik?label=Follow&style=for-the-badge&color=181717&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=susatwik&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
+### 🚀 Software Engineer | MERN Stack Developer | Aspiring AI Engineer
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=940&lines=Building+scalable+applications+with+modern+tech;Passionate+about+AI+and+Generative+AI;Transforming+ideas+into+reality+through+code;Solving+complex+problems+one+line+at+a+time)](https://git.io/typing-svg)
+
+*"Turning complex problems into elegant solutions, one line of code at a time."*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Singarapuprasannakumar&style=for-the-badge&color=00FF88)](https://github.com/Singarapuprasannakumar)
+[![GitHub followers](https://img.shields.io/github/followers/Singarapuprasannakumar?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/Singarapuprasannakumar)
 
 </div>
 
 ---
+
+## 🙋‍♂️ About Me
+
+<div align="left">
+
+I'm a passionate **Software Engineer** and **MERN Stack Developer** currently pursuing my B.Tech in Computer Science & Engineering (2023–2027) with a CGPA of **7.8/10**. Based in **Andhra Pradesh, India**, I'm deeply enthusiastic about building scalable applications and exploring the frontiers of **Artificial Intelligence** and **Generative AI**.
+
+### 💡 What I Do:
+- 🔥 **Full Stack Development** - Crafting end-to-end solutions with the MERN stack
+- 🤖 **AI & Machine Learning** - Exploring TensorFlow, Generative AI, and Prompt Engineering
+- 💡 **Problem Solving** - 3800+ problems solved across competitive programming platforms
+- 🚀 **Building Scalable Apps** - From concept to deployment with modern best practices
+- 🎯 **Open Source** - Contributing to meaningful projects and learning from the community
+
+I believe in writing clean, efficient code and continuously learning to stay at the forefront of technology. My goal is to leverage AI and modern web technologies to create impactful solutions that make a difference.
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
 
 <table>
-<tr>
-<td valign="top" width="58%">
-
-## 👨‍💻 About Me
-
-CS undergraduate building **production-grade AI systems** — not tutorials, not toy demos. Real pipelines, real scale, real impact.
-
-I work at the intersection of **LLM engineering**, **scalable backend architecture**, and **full-stack product development** — connecting intelligent AI layers to robust infrastructure that runs in production.
-
-**What I build:**
-- AI-powered platforms with LLM evaluation pipelines
-- RAG systems with semantic vector search
-- Workflow automation with intelligent orchestration
-- Scalable backend APIs designed for growth
-
-**Engineering philosophy:**  
-Every system I build is optimized for **scalability, maintainability, and real-world performance** — not demo-day aesthetics.
-
-**Currently focused on:**  
-AI infrastructure, RAG architectures, distributed systems, and backend performance engineering.
-
-</td>
-<td valign="top" width="42%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif" />
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/Singarapuprasannakumar/Singarapuprasannakumar/blob/main/assets/trophy.png" width="80">
+      <h3>🥇 Smart India Hackathon 2025</h3>
+      <p>Finalist - National Level Innovation Challenge</p>
+    </td>
+    <td width="50%">
+      <img src="https://github.com/Singarapuprasannakumar/Singarapuprasannakumar/blob/main/assets/trophy.png" width="80">
+      <h3>🎯 Hackathon Prayatna 2.0</h3>
+      <p>Runner-Up - Competitive Coding Challenge</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/Singarapuprasannakumar/Singarapuprasannakumar/blob/main/assets/code.png" width="80">
+      <h3>⭐ CodeChef 3-Star</h3>
+      <p>3800+ Problems Solved | Global Ranking</p>
+    </td>
+    <td width="50%">
+      <img src="https://github.com/Singarapuprasannakumar/Singarapuprasannakumar/blob/main/assets/leetcode.png" width="80">
+      <h3>� LeetCode</h3>
+      <p>150+ Problems Solved | Strong DSA Foundation</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/Singarapuprasannakumar/Singarapuprasannakumar/blob/main/assets/mentor.png" width="80">
+      <h3>👨‍🏫 Student Mentor</h3>
+      <p>Mentoring 60+ Students in Programming</p>
+    </td>
+    <td width="50%">
+      <img src="https://github.com/Singarapuprasannakumar/Singarapuprasannakumar/blob/main/assets/event.png" width="80">
+      <h3>🎓 ACM Event Organizer</h3>
+      <p>Organizing Technical Events & Workshops</p>
+    </td>
+  </tr>
 </table>
-
----
-
-## 🗂️ Developer Snapshot
-
-```yaml
-identity:
-  name:       Susatwik Manuri
-  handle:     @susatwik
-  role:       AI Systems Engineer & Full-Stack Developer
-  location:   India
-
-expertise:
-  primary:    [ AI/LLM Integrations, Backend Architecture, Full-Stack Engineering ]
-  secondary:  [ RAG Systems, Vector Databases, Workflow Automation ]
-  growing:    [ Distributed Systems, AI Infrastructure, System Design ]
-
-currently_building:
-  - AI-powered recruitment intelligence platform (HireScale AI)
-  - Invoice recovery automation with semantic parsing (RecoveryMate)
-
-learning:
-  - Advanced RAG architectures
-  - Backend performance engineering
-  - Scalable system design patterns
-
-competitive:
-  codechef:   4★ Programmer
-  problems:   1800+ solved across LeetCode + CodeChef
-  strengths:  [ DP, Graph Algorithms, Binary Search, Trees ]
-
-achievements:
-  - Shipped 4 production-ready AI products
-  - Integrated LLMs (OpenAI, Gemini) into real workflows
-  - Built vector search + OCR pipelines from scratch
-
-mindset:     "Build for scale. Engineer for maintainability. Ship for impact."
-```
-
----
-
-## 🎯 What I'm Known For
-
-<div align="center">
-
-|  |  |
-|--|--|
-| **🤖 AI/LLM Engineer** | Building real systems on top of OpenAI, Gemini, LangChain — not wrappers, but full pipelines with evaluation, orchestration, and memory |
-| **⚙️ Backend Architect** | Designing scalable APIs and distributed workflows with Node.js, MongoDB, PostgreSQL, Redis — production-grade from day one |
-| **🔍 RAG & Vector Systems** | Semantic search, Pinecone integration, document chunking, and retrieval pipelines for intelligent applications |
-| **🏆 Problem Solver** | CodeChef 4★, 1800+ problems — strong algorithmic foundation that shows in system design quality |
-| **🚢 Product Shipper** | End-to-end ownership: spec → architecture → deploy → iterate. Four live AI products on Vercel/Render |
 
 </div>
 
 ---
 
-## ⚡ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=20)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&logoWidth=20)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&logoWidth=20)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white&logoWidth=20)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+### 🎨 Frontend Development
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=20)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=20)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&logoWidth=20)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&logoWidth=20)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge)
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&logoWidth=20)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&logoWidth=20)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white&logoWidth=20)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=20)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white&logoWidth=20)
 
-### AI / Machine Learning
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-FF6B6B?style=for-the-badge)
-![Vector Search](https://img.shields.io/badge/Vector_Search-6A1B9A?style=for-the-badge)
+### 🤖 AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=20)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white&logoWidth=20)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00D8FF?style=for-the-badge&logo=chatgpt&logoColor=white&logoWidth=20)
 
-### DevOps & Infra
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=20)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=20)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoWidth=20)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&logoWidth=20)
 
 </div>
 
@@ -166,167 +129,78 @@ mindset:     "Build for scale. Engineer for maintainability. Ship for impact."
 
 ## 🚀 Featured Projects
 
-<details open>
-<summary><b>🤖 HireScale AI — AI-Powered Recruitment Intelligence Platform</b></summary>
-
-<br/>
-
-> **Recruiting doesn't need more spreadsheets. It needs intelligent automation.**
-
-HireScale AI transforms talent evaluation with LLM-powered candidate analysis, ATS scoring, and structured interview orchestration — giving recruiters signal over noise.
-
-| | |
-|--|--|
-| **Problem** | Manual resume screening is slow, inconsistent, and biased. Recruiters spend 80% of their time on low-signal tasks |
-| **Solution** | AI pipeline that ingests resumes, scores against job criteria, generates evaluation reports, and orchestrates interview workflows |
-
-**Key Features**
-- `Resume Analysis Engine` — parses, extracts, and scores candidates against JD criteria
-- `ATS Scoring Workflows` — structured scoring across skills, experience, and cultural signals
-- `AI Evaluation Pipelines` — OpenAI-powered judgment with structured output
-- `Recruiter Dashboard` — real-time candidate pipeline management
-- `Stateful Interview System` — tracks candidate progression across stages
-
-**Stack:** `React` `TypeScript` `Node.js` `MongoDB` `OpenAI API`
-
-🔗 [Live Demo](https://stateful-interview-system.vercel.app) · [Repository](https://github.com/susatwik/stateful-interview-system)
-
-</details>
-
----
-
-<details open>
-<summary><b>⚡ RecoveryMate — Intelligent Invoice Recovery Automation</b></summary>
-
-<br/>
-
-> **Chasing invoices shouldn't require human hours.**
-
-RecoveryMate automates the entire invoice recovery lifecycle — from OCR extraction to semantic understanding to communication automation — with a full AI-powered backend orchestration layer.
-
-| | |
-|--|--|
-| **Problem** | Businesses lose thousands monthly on unrecovered invoices. Manual follow-up is slow and inconsistent |
-| **Solution** | End-to-end pipeline: OCR extraction → Gemini parsing → vector storage → automated Twilio communication |
-
-**Key Features**
-- `OCR Extraction Pipeline` — ingests invoice images and extracts structured data
-- `Semantic Parsing` — Gemini API interprets invoice context intelligently
-- `Vector Database Search` — Pinecone-powered semantic invoice matching
-- `Communication Automation` — Twilio workflows for automated follow-up sequences
-- `Backend Orchestration` — stateful workflow management across the full recovery lifecycle
-
-**Stack:** `Node.js` `Gemini API` `Pinecone` `Twilio` `OCR Engine`
-
-🔗 [Live Demo](https://recovermate-web.onrender.com) · [Repository](https://github.com/susatwik/RecoverMate)
-
-</details>
-
----
-
-<details>
-<summary><b>🍽️ RestaurantFlow — Real-Time Operations Platform</b></summary>
-
-<br/>
-
-> **Kitchen chaos, solved with engineered state.**
-
-RestaurantFlow is a multi-role restaurant operations platform with real-time order lifecycle management, kitchen workflow coordination, and synchronized dashboards across all roles.
-
-**Key Features**
-- Multi-role access: customer, server, kitchen, manager
-- Real-time order state synchronization across roles
-- Kitchen workflow orchestration with order priority queues
-- Complete order lifecycle from placement to fulfillment
-
-**Stack:** `React` `Vite` `Framer Motion` `Context API`
-
-🔗 [Live Demo](https://restaurant-ordering-kitchen.vercel.app) · [Repository](https://github.com/susatwik/Restaurant-Ordering-Kitchen-Management-Platform)
-
-</details>
-
----
-
-<details>
-<summary><b>🐾 Pawdentify — CNN Dog Breed Classifier API</b></summary>
-
-<br/>
-
-> **Computer vision deployed, not just trained.**
-
-Pawdentify is a TensorFlow CNN model served via a Flask inference API — with a full frontend for real-time predictions. Built to demonstrate end-to-end ML deployment, not just Jupyter notebook accuracy.
-
-**Key Features**
-- Custom CNN training with TensorFlow
-- Flask REST API serving real-time predictions
-- Image preprocessing pipeline
-- Frontend with live classification results
-
-**Stack:** `Python` `TensorFlow` `Flask` `React`
-
-🔗 [Live Demo](https://pawdentify-frontend.vercel.app) · [Repository](https://github.com/susatwik/pawdentify)
-
-</details>
-
----
-
-## 🏆 Achievements & Highlights
-
 <div align="center">
 
-| Category | Achievement |
-|----------|-------------|
-| 🌟 **Competitive Programming** | CodeChef **4★** Programmer |
-| 📊 **Problems Solved** | **1800+** across LeetCode & CodeChef |
-| 🚀 **Shipped Products** | **4 live AI-powered applications** in production |
-| 🤖 **AI Integrations** | OpenAI, Gemini, LangChain — production use |
-| 🔍 **Vector Systems** | Pinecone RAG pipeline built from scratch |
-| 📡 **Automation** | Twilio + OCR + AI orchestration pipeline |
+### 📱 MeetMind
+**Collaborative Team Discussion Platform**
 
-</div>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
----
+A real-time collaborative platform enabling structured team discussions and decision-making workflows.
 
-## 🧠 Engineering Philosophy
-
-<div align="center">
-
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│                                                                        │
-│   "Don't build systems for demos. Build systems for production."       │
-│                                                                        │
-│   ✦ Scalability over cleverness                                        │
-│   ✦ Architecture before code                                           │
-│   ✦ Automation over manual processes                                   │
-│   ✦ Observability built-in, not bolted-on                              │
-│   ✦ Performance is a feature                                           │
-│   ✦ Maintainability is a multiplier                                    │
-│                                                                        │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-Every system I touch gets evaluated on: **Can it scale? Can someone else maintain it? Does it solve the real problem?**
-
-If the answer to any is no — the architecture isn't done.
+#### ✨ Key Features:
+- 💬 Real-time communication with WebSocket integration
+- 👥 Team decision workflows and voting systems
+- 📊 Discussion analytics and insights
+- 🔐 Secure authentication and authorization
+- 📱 Responsive design for all devices
 
 ---
 
-## 📡 Current Focus & Roadmap
+### 🍽️ RestaurantFlow
+**Restaurant Workflow Management System**
 
-<div align="center">
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-| Status | Initiative |
-|--------|-----------|
-| 🔨 **Building** | HireScale AI — shipping evaluation pipeline v2 |
-| 🔨 **Building** | RecoveryMate — extending vector search workflows |
-| 📖 **Learning** | Advanced RAG architectures & retrieval strategies |
-| 📖 **Learning** | Distributed system design patterns |
-| 🔭 **Exploring** | AI agent frameworks & multi-agent orchestration |
-| 🔭 **Exploring** | Backend performance optimization at scale |
-| 🎯 **Goal** | Build and ship one more production AI product Q3 2025 |
+Complete restaurant management platform supporting order lifecycle tracking and operational efficiency.
+
+#### ✨ Key Features:
+- 🍽️ Complete order lifecycle tracking
+- ⚡ Real-time synchronization across devices
+- 📈 Admin dashboard with analytics
+- 🎯 Kitchen display system integration
+- 📱 Customer-facing order tracking
+
+---
+
+### 🌤️ Weather App
+**Real-time Weather Monitoring Application**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![OpenWeather API](https://img.shields.io/badge/OpenWeather_API-FF6F00?style=flat-square&logo=openweather&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+Full-stack weather application providing real-time weather updates with historical data storage.
+
+#### ✨ Key Features:
+- 🌤️ Real-time weather updates with OpenWeather API
+- 📍 Location-based weather detection
+- 📊 Historical weather data storage in MongoDB
+- 🎨 Beautiful, responsive UI design
+- ⚡ Fast loading and caching
+
+---
+
+### ✉️ Gmail Verifier
+**Email Validation & Verification Platform**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+Advanced email validation system with fake email detection and automated verification workflows.
+
+#### ✨ Key Features:
+- ✅ Advanced email validation algorithms
+- 🚫 Fake email detection and filtering
+- 🔄 Automated verification workflow
+- 📊 Verification history and analytics
+- 🔒 Secure API integration
 
 </div>
 
@@ -336,83 +210,194 @@ If the answer to any is no — the architecture isn't done.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=susatwik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susatwik&layout=compact&theme=tokyonight&hide_border=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Singarapuprasannakumar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
 
-</div>
+![GitHub Streak](https://github-streak-stats.herokuapp.com/?user=Singarapuprasannakumar&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)
 
-<div align="center">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Singarapuprasannakumar&theme=radical&hide_border=true&layout=compact&card_width=500)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=susatwik&theme=tokyonight&hide_border=true" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Singarapuprasannakumar&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=4)
 
-</div>
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Singarapuprasannakumar&theme=radical&hide_border=true&area=true&radius=20)
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=susatwik&theme=tokyo-night&hide_border=true&area=true&area_color=00C2FF" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=susatwik&theme=tokyonight&no-frame=true&row=1&column=7" />
+![Contribution Snake](https://github.com/Singarapuprasannakumar/Singarapuprasannakumar/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
 ---
 
-## 🔢 Competitive Programming
+## 💻 Competitive Programming
 
 <div align="center">
 
-| Platform | Status | Strength |
-|----------|--------|----------|
-| **CodeChef** | ⭐⭐⭐⭐ 4★ | Rated programmer — consistent contest performance |
-| **LeetCode** | Active | 800+ problems — medium/hard focus |
+### 🏆 Platform Statistics
 
-### Core Algorithmic Areas
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://www.codechef.com/users/Singarapuprasannakumar">
+        <img src="https://github.com/Singarapuprasannakumar/Singarapuprasannakumar/blob/main/assets/codechef.png" width="80">
+        <h3>CodeChef</h3>
+        <p>⭐ 3-Star Rating</p>
+        <p>🔥 3800+ Problems</p>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://leetcode.com/u/Singarapuprasannakumar">
+        <img src="https://github.com/Singarapuprasannakumar/Singarapuprasannakumar/blob/main/assets/leetcode.png" width="80">
+        <h3>LeetCode</h3>
+        <p>💻 150+ Problems</p>
+        <p>🎯 Strong DSA</p>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://www.hackerrank.com/Singarapuprasannakumar">
+        <img src="https://github.com/Singarapuprasannakumar/Singarapuprasannakumar/blob/main/assets/hackerrank.png" width="80">
+        <h3>HackerRank</h3>
+        <p>🚀 Active Solver</p>
+        <p>📈 Consistent Practice</p>
+      </a>
+    </td>
+  </tr>
+</table>
 
-![DP](https://img.shields.io/badge/Dynamic_Programming-0A66C2?style=for-the-badge)
-![Graphs](https://img.shields.io/badge/Graph_Algorithms-181717?style=for-the-badge)
-![Trees](https://img.shields.io/badge/Trees_%26_Recursion-6A1B9A?style=for-the-badge)
-![Binary Search](https://img.shields.io/badge/Binary_Search-FF6B6B?style=for-the-badge)
-![Sliding Window](https://img.shields.io/badge/Sliding_Window-4CAF50?style=for-the-badge)
-![Greedy](https://img.shields.io/badge/Greedy_Algorithms-FF9800?style=for-the-badge)
-![Backtracking](https://img.shields.io/badge/Backtracking-E91E63?style=for-the-badge)
-
-<a href="https://www.codechef.com/users/susatwik">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/susatwik/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+### 🎯 Problem Solving Highlights
+- **3800+ Problems Solved** across multiple competitive programming platforms
+- **3-Star CodeChef** rating with consistent improvement
+- Strong foundation in **Algorithms and Data Structures**
+- Problem-solving mindset applied to **real-world scenarios**
+- Regular participation in **coding contests and hackathons**
 
 </div>
 
 ---
 
-## 🤝 Connect
+## 🌟 Open Source Contributions
 
 <div align="center">
 
-<a href="https://susatwik-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-000000?style=for-the-badge" />
-</a>
-<a href="https://linkedin.com/in/susatwik/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/susatwik">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:susatwikmanuri@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### 🤝 Contributing to the Community
 
-<br/><br/>
+I actively contribute to open-source projects and believe in the power of collaborative development.
 
-> *Open to full-time roles, internships, and meaningful engineering collaborations.*  
-> *If you're building something ambitious — I want to hear about it.*
+#### 📌 Areas of Contribution:
+- 🐛 Bug fixes and issue resolution
+- ✨ Feature enhancements
+- 📝 Documentation improvements
+- 🧪 Testing and quality assurance
+- 💡 Code optimization and refactoring
+
+#### 🎯 Why Open Source?
+Open source is not just about code—it's about learning, sharing, and growing together as a community. I'm always looking for meaningful projects to contribute to.
+
+[![Open Source](https://img.shields.io/badge/Open_Source-Contributor-green?style=for-the-badge&logo=open-source-initiative&logoColor=white)](https://github.com/Singarapuprasannakumar)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+---
+
+## 📚 Current Learning
+
+<div align="center">
+
+### 🎯 Focused Learning Areas
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 Artificial Intelligence</h3>
+      <ul>
+        <li>TensorFlow and Deep Learning</li>
+        <li>Neural Networks and CNNs</li>
+        <li>Computer Vision Applications</li>
+        <li>Natural Language Processing</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>✨ Generative AI</h3>
+      <ul>
+        <li>Large Language Models (LLMs)</li>
+        <li>Prompt Engineering</li>
+        <li>AI Agent Development</li>
+        <li>RAG and Fine-tuning</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🚀 Advanced Full Stack</h3>
+      <ul>
+        <li>Microservices Architecture</li>
+        <li>GraphQL Integration</li>
+        <li>Cloud Deployment (AWS/GCP)</li>
+        <li>CI/CD Pipelines</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🔧 System Design</h3>
+      <ul>
+        <li>Scalable Architecture</li>
+        <li>Database Optimization</li>
+        <li>API Design Patterns</li>
+        <li>Performance Tuning</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| Focus Area | Status | Priority |
+|------------|--------|----------|
+| 🔥 **Full Stack Development** | Actively Building MERN Projects | High |
+| 🤖 **Artificial Intelligence** | Learning TensorFlow & ML Models | High |
+| ✨ **Generative AI Applications** | Exploring LLMs & Prompt Engineering | High |
+| 🌟 **Open Source Contributions** | Contributing to Meaningful Projects | Medium |
+| 💼 **Software Engineering** | Building Production-Ready Applications | High |
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+### 🚀 Let's Build Something Amazing Together!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+[![Email](https://img.shields.io/badge/Email-prasannakumar.singarapu@sasi.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:prasannakumar.singarapu@sasi.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://linkedin.com/in/prasanna-kumar-singarapu)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)](https://github.com/Singarapuprasannakumar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=netlify&logoColor=white&logoWidth=20)](https://spkportfolio.netlify.app)
+
+---
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/Singarapuprasannakumar/count.svg)
+
+*"Code is poetry written for machines to understand and humans to appreciate."*
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If you like my work, consider giving it a star! It helps me stay motivated.**
+
+Made with ❤️ by [Singarapu Prasanna Kumar](https://github.com/Singarapuprasannakumar)
+
+[![Back To Top](https://img.shields.io/badge/Back_To_Top-000000?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</div>
