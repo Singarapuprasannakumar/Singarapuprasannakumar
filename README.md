@@ -377,20 +377,20 @@ I believe in building in public and contributing back to the community.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Singarapuprasannakumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singarapuprasannakumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Singarapuprasannakumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singarapuprasannakumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Singarapuprasannakumar&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+<img src="https://streak-stats.demolab.com?user=Singarapuprasannakumar&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Singarapuprasannakumar&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Singarapuprasannakumar&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff" />
 
 </div>
 
