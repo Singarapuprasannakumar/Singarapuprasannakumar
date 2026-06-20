@@ -66,36 +66,113 @@ pronouns:     he/him
 
 ## 🗂️ Developer Snapshot
 
-```yaml
-identity:
-  name:       Singarapu Prasanna Kumar
-  handle:     @Singarapuprasannakumar
-  role:       MERN Stack Developer | Aspiring AI Engineer
-  education:  B.Tech CSE, SASI Institute of Technology (2023–2027)
-  cgpa:       7.8 / 10
+<div align="center">
 
-expertise:
-  primary:    [ MERN Stack, REST APIs, Full-Stack Development ]
-  secondary:  [ TensorFlow, Generative AI, Prompt Engineering ]
-  growing:    [ AI/ML Systems, LLM Integration, System Design ]
+<!-- Identity Row -->
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/👤_Name-Prasanna_Kumar-58a6ff?style=for-the-badge&labelColor=0d1117&color=161b22" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎓_Degree-B.Tech_CSE_2027-58a6ff?style=for-the-badge&labelColor=0d1117&color=161b22" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📍_Location-Andhra_Pradesh,_India-58a6ff?style=for-the-badge&labelColor=0d1117&color=161b22" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎯_CGPA-7.8%20%2F%2010-2ea043?style=for-the-badge&labelColor=0d1117&color=161b22" />
+</td>
+</tr>
+</table>
 
-currently_building:
-  - MeetMind — Collaborative discussion platform with real-time features
-  - Weather App — Real-time monitoring with OpenWeather API
+</div>
 
-competitive:
-  codechef:   3★ Programmer
-  problems:   3800+ solved across CodeChef + LeetCode
-  strengths:  [ DSA, Problem Solving, Algorithms ]
+<!-- Expertise -->
+<div align="center">
 
-achievements:
-  - SIH 2025 Finalist (National Level)
-  - Runner-Up — Hackathon Prayatna 2.0
-  - Student Mentor (60+ students)
-  - ACM Event Organizer
+**🧠 Expertise**
 
-mindset:     "Learn. Build. Ship. Repeat."
-```
+![Primary](https://img.shields.io/badge/PRIMARY-MERN_Stack_%7C_REST_APIs_%7C_Full--Stack-58a6ff?style=flat-square&labelColor=0d1117)
+![Secondary](https://img.shields.io/badge/SECONDARY-TensorFlow_%7C_GenAI_%7C_Prompt_Eng-a371f7?style=flat-square&labelColor=0d1117)
+![Growing](https://img.shields.io/badge/GROWING-AI%2FML_%7C_LLM_Integration_%7C_System_Design-3fb950?style=flat-square&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+<!-- Currently Building -->
+<div align="center">
+
+**🔨 Currently Building**
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+![MeetMind](https://img.shields.io/badge/💬_MeetMind-In_Progress-ff6b6b?style=for-the-badge&labelColor=0d1117)
+
+Collaborative discussion platform  
+with real-time communication
+
+</td>
+<td align="center" width="50%">
+
+![WeatherApp](https://img.shields.io/badge/🌤️_Weather_App-In_Progress-ff9800?style=for-the-badge&labelColor=0d1117)
+
+Real-time monitoring  
+with OpenWeather API
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Competitive + Achievements side by side -->
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" width="50%" align="center">
+
+**⚔️ Competitive Programming**
+
+![CodeChef](https://img.shields.io/badge/CodeChef-3★_Programmer-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+
+![Problems](https://img.shields.io/badge/🔥_Problems_Solved-3800+-ff6b6b?style=for-the-badge&labelColor=0d1117)
+
+![Strengths](https://img.shields.io/badge/Strengths-DSA_%7C_Algorithms_%7C_Problem_Solving-0A66C2?style=flat-square&labelColor=0d1117)
+
+</td>
+<td valign="top" width="50%" align="center">
+
+**🏆 Achievements**
+
+![SIH](https://img.shields.io/badge/🏆_SIH_2025-National_Finalist-ffd700?style=flat-square&labelColor=0d1117)
+
+![Hackathon](https://img.shields.io/badge/🥈_Prayatna_2.0-Runner--Up-c0c0c0?style=flat-square&labelColor=0d1117)
+
+![Mentor](https://img.shields.io/badge/👨‍🏫_Student_Mentor-60+_Students-3fb950?style=flat-square&labelColor=0d1117)
+
+![ACM](https://img.shields.io/badge/🎓_ACM-Event_Organizer-58a6ff?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Mindset Banner -->
+<div align="center">
+
+[![Mindset](https://img.shields.io/badge/💡_Mindset-"Learn._Build._Ship._Repeat."-58a6ff?style=for-the-badge&labelColor=0d1117&color=1f6feb)](https://github.com/Singarapuprasannakumar)
+
+</div>
 
 ---
 
